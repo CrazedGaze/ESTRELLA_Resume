@@ -1,0 +1,81 @@
+body{
+
+height:100%;
+background-image: url("Oppenheimer BG.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 150px;
+font-family: Baskerville Old Face;
+
+
+}
+
+video {
+	
+  display: block;
+  margin: auto;
+}
+
+audio {
+	
+  display: block;
+  margin: auto;
+}
+
+#bgcolor{
+	
+	border: 5px solid rgb(123 123 123);
+	background-color: rgb(23 23 23);
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+h1{
+	color: #debc5b;
+	text-align: center;
+	
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+	color:#e8b923;
+	text-align: center;
+	
+}
+
+header p{
+	
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+h3{
+	
+	color: #a28834;
+	
+}
+
+p{
+	
+	color:#daa520;
+	
+}
+
+li{
+	
+	color: #44391a;
+	
+}
+
